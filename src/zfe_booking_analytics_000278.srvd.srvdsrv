@@ -1,0 +1,10 @@
+define service zfe_booking_analytics_000278 {
+  expose ZC_FE_BOOKING_ANALYTICS_000278 as Booking;
+  expose ZI_FE_TRAVEL_ANALYTICS_000278 as Travel;
+  expose ZI_FE_CONN_000278 as Connection;
+  expose ZI_FE_FLIG_000278 as Flight;
+  expose ZI_FE_CARR_000278 as Airline;
+  expose I_CURRENCY as Currency;
+  expose /DMO/I_CUSTOMER as Customer;
+  expose /DMO/I_AGENCY as Agency;
+}
