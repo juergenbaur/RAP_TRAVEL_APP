@@ -1,6 +1,8 @@
 # RAP_TRAVEL_APP 
 ## Package ZFE_TRAVEL_000278
 
+## Beispiel Side Effect.
+
 ## Wir sind hier:
 # Refine the Object Page with Annotations
 https://developers.sap.com/tutorials/fiori-tools-rap-modify-object-page?from=create-a-travel-app-with-sap-fiori-elements-based-on-odata-v4-rap-service
